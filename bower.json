@@ -1,0 +1,27 @@
+{
+  "name": "HomeAccessClient",
+  "version": "0.0.1",
+  "authors": [
+    "sebastian <lord.of.all.sebastian@gmail.com>"
+  ],
+  "description": "Hacked client to controll Home Access Center",
+  "main": "hack.html",
+  "keywords": [
+    "hack",
+    "school"
+  ],
+  "license": "Copyright Sebastian Boyd",
+  "homepage": "https://sebastianboyd.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5",
+    "core-elements": "Polymer/core-elements#~0.5.5",
+    "paper-elements": "Polymer/paper-elements#~0.5.5"
+  }
+}
