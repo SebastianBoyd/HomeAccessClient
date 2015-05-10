@@ -1,6 +1,6 @@
 {
     "problems-panel": {
-        "visible": true,
+        "visible": false,
         "size": 112,
         "contentSize": 84
     },
@@ -9,5 +9,14 @@
     ],
     "projectPath": "/",
     "afterFirstLaunch": "true",
-    "workingSetSortMethod": "cmd.sortWorkingSetByAdded"
+    "workingSetSortMethod": "cmd.sortWorkingSetByAdded",
+    "project": {
+        "/": {
+            "project.treeState": [
+                [
+                    "/$.brackets.config$/"
+                ]
+            ]
+        }
+    }
 }
