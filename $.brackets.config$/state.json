@@ -1,6 +1,6 @@
 {
     "problems-panel": {
-        "visible": false,
+        "visible": true,
         "size": 112,
         "contentSize": 84
     },
