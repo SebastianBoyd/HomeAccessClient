@@ -12,11 +12,7 @@
     "workingSetSortMethod": "cmd.sortWorkingSetByAdded",
     "project": {
         "/": {
-            "project.treeState": [
-                [
-                    "/$.brackets.config$/"
-                ]
-            ]
+            "project.treeState": []
         }
     }
 }
