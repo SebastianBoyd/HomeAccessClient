@@ -1,6 +1,8 @@
 {
     "problems-panel": {
-        "visible": true
+        "visible": true,
+        "size": 112,
+        "contentSize": 84
     },
     "welcomeProjects": [
         ""
