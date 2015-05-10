@@ -4,5 +4,8 @@
     },
     "welcomeProjects": [
         ""
-    ]
+    ],
+    "projectPath": "/",
+    "afterFirstLaunch": "true",
+    "workingSetSortMethod": "cmd.sortWorkingSetByAdded"
 }
